@@ -32,6 +32,12 @@ Instale as dependências
   npm install
 ```
 
+Inicie o container
+
+```bash
+  docker-compose up -d
+```
+
 Abra o projeto
 
 ```bash
